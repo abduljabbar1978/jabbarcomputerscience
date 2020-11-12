@@ -1,0 +1,2 @@
+#hi
+Print("Gooood")
