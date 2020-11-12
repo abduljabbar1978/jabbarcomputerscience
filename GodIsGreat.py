@@ -1,0 +1,2 @@
+#Ya Rab
+Print("Allah")
